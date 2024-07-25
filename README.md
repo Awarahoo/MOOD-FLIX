@@ -11,3 +11,5 @@ Frontend: React.js, Tailwind css
 Backend: Firebase,Nodejs
 AI Integration: OpenAI ChatGPT
 Other: npm, Git
+![image](https://github.com/user-attachments/assets/47e11891-6a17-4373-8a4c-73cb1c2a9961)
+
